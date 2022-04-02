@@ -8,5 +8,3 @@ fields:
     required: false
   label: Sieu nhan
   hidden: false
-pages:
-- content/sieunhan.md
