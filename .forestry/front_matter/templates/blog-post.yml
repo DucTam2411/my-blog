@@ -1,4 +1,10 @@
 ---
 label: Blog post
 hide_body: true
-fields: []
+fields:
+- name: sieu_nhan
+  type: text
+  config:
+    required: false
+  label: Sieu nhan
+  hidden: false
